@@ -1,4 +1,4 @@
-## Welcome to Broven's Blog
+## Welcome to Broven's blog
 
 You can use the [editor on GitHub](https://github.com/Broven-Li/broven.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
